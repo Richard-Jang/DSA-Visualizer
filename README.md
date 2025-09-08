@@ -13,3 +13,5 @@
     - Counting SOrt
     - Radix Sort
     - Merge Sort
+- Trees
+    - ...
