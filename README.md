@@ -10,6 +10,6 @@
     - Selection Sort
     - Insertion Sort
     - Quick Sort
-    - Counting SOrt
+    - Counting Sort
     - Radix Sort
     - Merge Sort
