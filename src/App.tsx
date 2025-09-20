@@ -1,6 +1,6 @@
 import { createBrowserRouter, Outlet, RouterProvider, type RouteObject } from 'react-router-dom';
 
-import Route from '@pages/Route';
+import Route from '@/pages/Route';
 
 function App() {
 
