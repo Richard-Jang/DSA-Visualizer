@@ -8,10 +8,10 @@ import { default as SearchingHome } from "@/pages/searching/Home";
 import { default as SearchingRoute } from "@/pages/searching/Route";
 
 const Route: RouteObject[] = [
-    { index: true, Component: Home },
-    { path: "sorting", element: <SortingHome /> },
+    { index: true, element: <Home /> },
+    { path: "sort", element: <SortingHome /> },
     SortingRoute,
-    { path: "searching", element: <SearchingHome /> },
+    { path: "search", element: <SearchingHome /> },
     SearchingRoute,
     { path: "/*", element: <NotFound /> },
 ]
