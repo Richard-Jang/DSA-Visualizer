@@ -32,6 +32,11 @@
 }
 
 :root {
+  margin: 0;
+  padding: 0;
+
+  display: block;
+
   font-family: "Forum", serif;
   line-height: 1.5;
   font-weight: 400;
